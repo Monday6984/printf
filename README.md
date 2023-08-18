@@ -236,6 +236,6 @@ Function That Returns The Amount Of Indetifiers.
 # Authors
 
 * [Monday Ofem] (https://github.com/Monday6984) 
-* [Ekene Clarence] (https://github.com/3k3n3)
+* [Ekene C.] (https://github.com/3k3n3)
 
 # End
